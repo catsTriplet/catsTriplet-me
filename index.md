@@ -2,6 +2,11 @@
 layout: default
 title: 张文博 - 测试开发工程师简历
 ---
+
+# 张文博
+**测试开发工程师** | 7年经验 | 北京
+📞 17610332082 | 📧 [mild.wenbo@gmail.com](mailto:mild.wenbo@gmail.com)
+
 # 张文博 - 测试开发工程师项目集
 
 👋 你好！我是张文博，一名拥有 7 年经验的测试开发工程师。
