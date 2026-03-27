@@ -1,3 +1,6 @@
-remote_theme: pages-themes/architect@v0.2.0
-title: 张文博 - 简历
-description: 测试开发工程师 | 7年经验 | 北京
+# 选择你喜欢的主题（二选一，把不用的那行删掉或注释掉）
+remote_theme: pages-themes/hacker@v0.2.0    # 推荐：深色极客风，非常适合带代码的页面
+# remote_theme: pages-themes/minimal@v0.2.0 # 备选：极简黑白风，非常干净
+
+title: 张文博的个人主页
+description: 资深测试开发工程师 | 7年质量保障与工程化经验
